@@ -528,7 +528,7 @@ theme	Appearance	Εμφάνιση
 	Histogram	Ιστόγραμμα
 	History	Ιστορικό
 	Hollow	Κοίλο
-	Home	Αρχική
+	Home	Κεντρική
 	Horizontal	Οριζόντια
 	Horizontal scale	Οριζόντια κλίμακα
 	Horizontally	Οριζόντια
@@ -936,7 +936,7 @@ theme	Appearance	Εμφάνιση
 	Reverse	Αντιστροφή
 	Reverse the order	Αντιστροφή σειράς
 	Revert	Επαναφορά αποθηκευμένης έκδοσης
-	Review	Ανασκόπηση
+	Review	Αναθεώρηση
 	RGB	RGB
 	RGB Color	Χρώμα RGB
 	RGB:	RGB:
@@ -1181,9 +1181,9 @@ theme	Appearance	Εμφάνιση
 	Variables	Μεταβλητές
 	Version	Έκδοση
 	Version {version}	Έκδοση {version}
-	Vertical	Κατακόρυφα
+	Vertical	Κατακόρυφη
 	Vertical Type Tool	Κατακόρυφο κείμενο (Vertical Type Tool)
-	Vertically	Κατακόρυφα
+	Vertically	Κατακόρυφη
 	Very High	Πολύ υψηλή
 	Vibrance	Ζωντάνια
 	Video	Βίντεο
