@@ -132,7 +132,6 @@
 	All - Linear	Όλα - Γραμμικά
 	All - Professional	Όλα - Επαγγελματικά
 	All Borders	Όλα τα περιγράμματα
-	All Caps	Όλα κεφαλαία
 	All caps	Όλα κεφαλαία
 	All Commands	Όλες οι εντολές
 	All Fonts	Όλες οι γραμματοσειρές
@@ -275,7 +274,6 @@
 	Bottom Margin	Κάτω περιθώριο
 	Bottom of Page	Κάτω μέρος σελίδας
 	Bottom Right Cell	Κάτω δεξί κελί
-	Bottom:	Κάτω:
 	Box	Πλαίσιο
 	Boxed Formula	Πλαισιωμένος τύπος
 	Boxed Formula (example)	Πλαισιωμένος τύπος (παράδειγμα)
@@ -321,9 +319,7 @@
 	Ceiling	Οροφή
 	Cell	Κελί
 	Cell Margins	Περιθώρια κελιού
-	Cell Size	Μέγεθος κελιού
 	Cell\nMargins	Περιθώρια\nκελιού
-	Center	Κέντρο
 	Center Glow	Κεντρική λάμψη
 	Centered as Group	Στο κέντρο ως ομάδα
 	Change Chart Type	Αλλαγή τύπου γραφήματος
@@ -398,7 +394,6 @@
 	Citation Style	Στυλ παραπομπής
 	Citations	Παραπομπές
 	Citations & Bibliography	Παραπομπές και βιβλιογραφία
-	Clear All	Εκκαθάριση όλων
 	Clear All Formatting	Εκκαθάριση όλης της μορφοποίησης
 	Clear Character Formatting	Εκκαθάριση μορφοποίησης χαρακτήρα
 	Clear Character Style	Εκκαθάριση στυλ χαρακτήρα
@@ -437,8 +432,7 @@
 	Combo Box Content Control	Στοιχείο ελέγχου περιεχομένου σύνθετου πλαισίου
 	Commands	Εντολές
 	Commas	Κόμματα
-  Comment	Σχόλιο
-  Comments	Σχόλια
+	Comment	Σχόλιο
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Σχόλια δίπλα σε κάθε σελίδα και παρακολουθούμενες αλλαγές σε PDF, εκτυπώσεις και εικόνες· λίστα σχολίων στο τέλος ιστοσελίδων, Markdown και κειμένου.
 	Comments Pane	Παράθυρο σχολίων
 	Common Accent Objects	Συνήθη αντικείμενα τόνου
@@ -561,7 +555,6 @@
 	Day	Ημέρα
 	Decimal	Δεκαδικό
 	Decorative objects only add visual interest: screen readers skip them.	Τα διακοσμητικά αντικείμενα προσθέτουν μόνο οπτικό ενδιαφέρον: οι αναγνώστες οθόνης τα παραλείπουν.
-	Decrease Font Size	Μείωση μεγέθους γραμματοσειράς
 	Decrease Indent	Μείωση εσοχής
 	Deep	Βαθύ
 	Default Paragraph Font	Προεπιλεγμένη γραμματοσειρά παραγράφου
@@ -639,7 +632,6 @@
 	Document Start	Αρχή εγγράφου
 	Document template:	Πρότυπο εγγράφου:
 	Document Text	Κείμενο εγγράφου
-	Document Title	Τίτλος εγγράφου
 	Document1	Έγγραφο1
 	Document\nPreferences	Προτιμήσεις\nεγγράφου
 	Documents you open will show up here.	Τα έγγραφα που ανοίγετε θα εμφανίζονται εδώ.
@@ -653,7 +645,6 @@
 	Dot dash	Τελεία παύλα
 	Dot-dash	Τελεία-παύλα
 	Dot-dot-dash	Τελεία τελεία παύλα
-	Dots	Κουκκίδες
 	Double	Διπλό
 	Double Bar	Διπλή μπάρα
 	Double Closing Quote	Διπλό εισαγωγικό κλείσιμο
@@ -819,7 +810,6 @@
 	Find what:	Εύρεση:
 	Find “{text}” in the document	Εύρεση του «{text}» στο έγγραφο
 	Finding printers…	Εύρεση εκτυπωτών…
-	Finish	Τέλος
 	Finish & Merge	Ολοκλήρωση και συγχώνευση
 	Finish &\nMerge	Ολοκλήρωση και\nσυγχώνευση
 	Finished	Ολοκληρώθηκε
@@ -833,15 +823,12 @@
 	Fix Position on Page	Καρφίτσωμα θέσης στη σελίδα
 	Fixed Column Width	Σταθερό πλάτος στήλης
 	Floor	Δάπεδο
-	Focus	Εστίαση
 	Follow number with:	Ακολούθηση αριθμού με:
 	Font Color	Χρώμα γραμματοσειράς
 	Font color	Χρώμα γραμματοσειράς
 	Font color:	Χρώμα γραμματοσειράς:
 	Font Dialog	Παράθυρο διαλόγου γραμματοσειράς
-	Font Size	Μέγεθος γραμματοσειράς
 	Font: {font}	Γραμματοσειρά: {font}
-	Fonts	Γραμματοσειρές
 	Font…	Γραμματοσειρά…
 	Footer	Υποσέλιδο
 	Footnote and Endnote	Υποσημείωση και σημείωση τέλους
@@ -905,7 +892,6 @@
 	Grab bag	Τσάντα συλλογής
 	Gradient fill	Γέμισμα με διαβάθμιση
 	Gradient stops	Σημεία διαβάθμισης
-	Graphic	Γραφικό
 	Grave	Βαρεία
 	Greater than	Μεγαλύτερο από
 	Greater than or equal	Μεγαλύτερο ή ίσο
@@ -941,7 +927,6 @@
 	Heading text	Κείμενο επικεφαλίδας
 	Heading {n}	Επικεφαλίδα {n}
 	Hebrew	Εβραϊκά
-	Help	Βοήθεια
 	Hex:	Δεκαεξ.:
 	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Γεια! Είμαι ο Nib, ο βοηθός γραφής σας. Προσφέρω συμβουλές, συντομεύσεις και περιστασιακά ανεπιθύμητες γνώμες. Να μείνω;
 	Hidden bookmarks	Κρυφοί σελιδοδείκτες
@@ -1006,7 +991,6 @@
 	Include label and number	Συμπερίληψη ετικέτας και αριθμού
 	Include level number from:	Συμπερίληψη αριθμού επιπέδου από:
 	Include page numbers	Συμπερίληψη αριθμών σελίδας
-	Increase Font Size	Αύξηση μεγέθους γραμματοσειράς
 	Increase Indent	Αύξηση εσοχής
 	Indent	Εσοχή
 	Indent from left:	Εσοχή από αριστερά:
@@ -1014,7 +998,6 @@
 	Indented	Με εσοχή
 	Indents	Εσοχές
 	Indents and Spacing	Εσοχές και διάστημα
-	Index	Ευρετήριο
 	Index and Tables	Ευρετήρια και πίνακες
 	Index Heading	Επικεφαλίδα ευρετηρίου
 	Index {n}	Ευρετήριο {n}
@@ -1164,7 +1147,6 @@
 	Left Subscript-Superscript	Δείκτης-εκθέτης αριστερά
 	Left-to-right	Αριστερά προς δεξιά
 	Left-to-Right Text Direction	Κατεύθυνση κειμένου αριστερά προς δεξιά
-	Left:	Αριστερά:
 	Leftwards Arrow Above	Βέλος προς αριστερά πάνω
 	Leftwards Harpoon Above	Χαρπούνι προς αριστερά πάνω
 	Legal   8.50" × 14.00"	Legal   8,50" × 14,00"
@@ -1215,7 +1197,6 @@ template	Letter	Επιστολή
 	Linear Left	Γραμμικό προς τα αριστερά
 	Linear Right	Γραμμικό προς τα δεξιά
 	Linear Up	Γραμμικό προς τα πάνω
-	Lines	Γραμμές
 	Lines and characters	Γραμμές και χαρακτήρες
 	Lines only	Μόνο γραμμές
 	Lines per page:	Γραμμές ανά σελίδα:
@@ -1292,12 +1273,10 @@ template	Letter	Επιστολή
 	Maximum Example	Παράδειγμα μεγίστου
 	Measured By	Μετράται από
 	Measurement units:	Μονάδες μέτρησης:
-	Merge	Συγχώνευση
 	Merge cells before split	Συγχώνευση κελιών πριν από τη διαίρεση
 	Merge Formatting	Συγχώνευση μορφοποίησης
 	Merge Record #	Εγγραφή # συγχώνευσης
 	Mesosphere	Μεσόσφαιρα
-	Middle	Μέση
 	Midline Dots	Κουκκίδες μέσης γραμμής
 	Minus Equal	Μείον ίσον
 	Mirror indents	Κατοπτρικές εσοχές
@@ -1364,7 +1343,6 @@ template	Letter	Επιστολή
 	New word	Νέα λέξη
 	New\nComment	Νέο\nσχόλιο
 	New\nWindow	Νέο\nπαράθυρο
-	New…	Νέο…
 	Next Comment	Επόμενο σχόλιο
 	Next Field	Επόμενο πεδίο
 	Next Footnote	Επόμενη υποσημείωση
@@ -1575,7 +1553,6 @@ template	Letter	Επιστολή
 	Paste: Keep Text Only	Επικόλληση: Διατήρηση μόνο κειμένου
 	Paste: Merge Formatting	Επικόλληση: Συγχώνευση μορφοποίησης
 	Pastes the clipboard's picture.	Επικολλά την εικόνα του προχείρου.
-	Path	Διαδρομή
 	Paused	Σε παύση
 	PDF document (*.pdf)	Έγγραφο PDF (*.pdf)
 	Pens	Στυλό
@@ -1691,10 +1668,8 @@ template	Letter	Επιστολή
 	Recolor a one-color picture, such as an icon	Επαναχρωματισμός μονόχρωμης εικόνας, όπως εικονιδίου
 	Recolor Selected Ink	Επαναχρωματισμός επιλεγμένου μελανιού
 	Record Macro	Εγγραφή μακροεντολής
-	Recover	Ανάκτηση
 	Recover Unsaved Documents	Ανάκτηση μη αποθηκευμένων εγγράφων
 	Red:	Κόκκινο:
-	Redo	Επανάληψη
 	Reduce Hanging Indent	Μείωση εκκρεμούς εσοχής
 	Reference type:	Τύπος αναφοράς:
 	References	Αναφορές
@@ -1744,7 +1719,6 @@ template	Letter	Επιστολή
 	Replace text as you type	Αντικατάσταση κειμένου κατά την πληκτρολόγηση
 	Replace with:	Αντικατάσταση με:
 	Replay	Αναπαραγωγή
-	Report	Αναφορά
 	Research	Έρευνα
 	Researcher	Ερευνητής
 	Researcher needs an online service; WordCraft keeps your documents offline.	Ο Ερευνητής απαιτεί διαδικτυακή υπηρεσία· το WordCraft κρατά τα έγγραφά σας εκτός σύνδεσης.
@@ -1794,7 +1768,6 @@ template	Letter	Επιστολή
 	Right-to-Left Section	Ενότητα δεξιά προς αριστερά
 	Right-to-Left Table	Πίνακας δεξιά προς αριστερά
 	Right-to-Left Text Direction	Κατεύθυνση κειμένου δεξιά προς αριστερά
-	Right:	Δεξιά:
 	Rightwards Arrow Above	Βέλος προς δεξιά πάνω
 	Rightwards Harpoon Above	Χαρπούνι προς δεξιά πάνω
 	Romanian	Ρουμανικά
@@ -1904,7 +1877,6 @@ template	Letter	Επιστολή
 	Set Proofing Language…	Ορισμός γλώσσας ορθογραφικού ελέγχου…
 	Setting:	Ρύθμιση:
 	Shading	Σκίαση
-	Shadow	Σκιά
 	Shadow, glow and soft edges	Σκιά, λάμψη και μαλακά άκρα
 	Shape Fill	Γέμισμα σχήματος
 	Shape Format	Μορφή σχήματος
@@ -1992,10 +1964,8 @@ template	Letter	Επιστολή
 	Single Spacing	Μονό διάστιχο
 	SIST02	SIST02
 	Site name	Όνομα τοποθεσίας
-	Size	Μέγεθος
 	Size (pt):	Μέγεθος (pt):
 	Size and Crop…	Μέγεθος και περικοπή…
-	Size:	Μέγεθος:
 	Sketchbook	Σημειωματάριο σχεδίου
 	Skewed Fraction	Κεκλιμένο κλάσμα
 	Skip citations & bibliography	Παράλειψη παραπομπών και βιβλιογραφίας
@@ -2324,7 +2294,6 @@ preview	Title	Παράδειγμα
 	Update Table of Figures	Ενημέρωση πίνακα σχημάτων
 	Update to Match	Ενημέρωση για αντιστοίχιση
 	Update to Match Selection	Ενημέρωση για αντιστοίχιση με την επιλογή
-	UPPERCASE	ΚΕΦΑΛΑΙΑ
 	URGENT	ΕΠΕΙΓΟΝ
 	URL	URL
 	Use "a" before a consonant sound	Χρήση "a" πριν από σύμφωνο
@@ -2405,7 +2374,6 @@ preview	Title	Παράδειγμα
 	Yields	Αποδίδει
 	You haven't saved in a while, and AutoSave is off. Save now?	Δεν έχετε αποθηκεύσει εδώ και λίγο και η αυτόματη αποθήκευση είναι ανενεργή. Αποθήκευση τώρα;
 	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Ξεκινήσατε λίστα. Πατήστε Enter δύο φορές για να την τερματίσετε ή Backspace στην αρχή στοιχείου για να το μετατρέψετε ξανά σε κείμενο.
-	Your changes will be lost if you don't save them.	Οι αλλαγές σας θα χαθούν αν δεν τις αποθηκεύσετε.
 	Your document is now the most saved document in history.	Το έγγραφό σας είναι τώρα το πιο αποθηκευμένο έγγραφο στην ιστορία.
 	Your system doesn't report an animation setting, so animation effects stay on.	Το σύστημά σας δεν αναφέρει ρύθμιση κίνησης, οπότε τα εφέ κίνησης παραμένουν ενεργά.
 	Your system has animation effects turned off.	Το σύστημά σας έχει απενεργοποιημένα τα εφέ κίνησης.
