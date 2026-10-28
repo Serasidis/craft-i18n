@@ -1,4 +1,4 @@
-# Greek (el) interface catalog for WordCraft.
+# Ελληνικά (el) interface catalog for WordCraft.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -708,7 +708,6 @@
 	Editor	Επεξεργαστής
 	Elbow Arrow Connector	Γωνιακός συνδετήρας βέλους
 	Elbow Connector	Γωνιακός συνδετήρας
-	Em Dash	Μακρύ παύλα
 	Emphasis	Έμφαση
 	Empty Matrices	Κενοί πίνακες
 	Enclose Characters	Περικλείω χαρακτήρες
@@ -1799,8 +1798,8 @@ template	Letter	Επιστολή
 	Sayings:	Ρητά:
 	Scale Drawing	Κλιμάκωση σχεδίασης
 	Scatter	Διασπορά
-	Script	Σενάριο
-	Scripts	Σενάρια
+	Script	Script
+	Scripts	Scripts
 	Scroll ribbon left	Κύλιση κορδέλας αριστερά
 	Scroll ribbon right	Κύλιση κορδέλας δεξιά
 	Search Commands	Αναζήτηση εντολών
@@ -2092,7 +2091,7 @@ template	Letter	Επιστολή
 	Table direction:	Κατεύθυνση πίνακα:
 	Table Grid	Πλέγμα πίνακα
 	Table Layout	Διάταξη πίνακα
-	Table of Authorities	Πίνακας αρχών
+	Table of Authorities	Πίνακας Νομικών Πηγών
 	Table of Contents	Πίνακας περιεχομένων
 	Table of Contents Options	Επιλογές πίνακα περιεχομένων
 	Table of Contents Styles	Στυλ πίνακα περιεχομένων
