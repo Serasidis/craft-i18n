@@ -669,7 +669,6 @@
 	Doughnut	Ντόνατ
 	DRAFT	ΠΡΟΧΕΙΡΟ
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Σύρετε ένα ορθογώνιο για να σχεδιάσετε πίνακα ή μια γραμμή κατά μήκος κελιών για να τα διαιρέσετε. Esc για έξοδο.
-	Draw	Σχεδίαση
 	Draw Ink	Σχεδίαση με μελάνι
 	Draw Table	Σχεδίαση πίνακα
 	Draw\nTable	Σχεδίαση\nπίνακα
@@ -1383,7 +1382,6 @@ template	Letter	Επιστολή
 	No-Width Non Break	Μη-διακοπή μηδενικού πλάτους
 	No-Width Optional Break	Προαιρετική αλλαγή μηδενικού πλάτους
 	Nonbreaking Hyphen	Παύλα μη διακοπής
-	Nonbreaking Space	Μη διασπώμενο διάστημα
 	Normal  {size} all	Κανονικό  {size} παντού
 	Normal Indent	Κανονική εσοχή
 	Normal probability density	Πυκνότητα κανονικής πιθανότητας
@@ -2215,7 +2213,6 @@ preview	Title	Παράδειγμα
 	Top Margin	Πάνω περιθώριο
 	Top of Page	Αρχή σελίδας
 	Top Right Cell	Πάνω δεξί κελί
-	Top:	Επάνω:
 	Total Row	Γραμμή συνόλου
 	Track Changes	Παρακολούθηση αλλαγών
 	Track Changes Options	Επιλογές παρακολούθησης αλλαγών
@@ -2378,7 +2375,6 @@ preview	Title	Παράδειγμα
 	Your system doesn't report an animation setting, so animation effects stay on.	Το σύστημά σας δεν αναφέρει ρύθμιση κίνησης, οπότε τα εφέ κίνησης παραμένουν ενεργά.
 	Your system has animation effects turned off.	Το σύστημά σας έχει απενεργοποιημένα τα εφέ κίνησης.
 	Your system has animation effects turned on.	Το σύστημά σας έχει ενεργοποιημένα τα εφέ κίνησης.
-	Zoom	Μεγέθυνση
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: ακυρώθηκε
 	Zotero: done	Zotero: ολοκληρώθηκε
