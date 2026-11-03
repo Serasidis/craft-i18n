@@ -48,7 +48,7 @@ catalog came from (`<app>@<sha>`). Translations are contributed under the reposi
 | `zh-hans` | WordCraft: no individual credit recorded upstream; PdfCraft: PdfCraft contributors; PhotoCraft: no individual credit recorded upstream; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; FilmCraft: no individual credit recorded upstream; CADCraft: @mayloglog; ArtCraft Launcher: no individual credit recorded upstream | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `cadcraft@b23d362`, `craft-launcher@ad7f24a` |
 | `zh-hant` | WordCraft: no individual credit recorded upstream; PdfCraft: PdfCraft contributors; PhotoCraft: no individual credit recorded upstream; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed (Traditional Chinese by `imachus`) | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3` |
 
-## WordCraft eg 0.37 migration additions
+## WordCraft egui 0.37 migration additions
 
 @skylartaylor contributed the `Delete Around Caret in Equation` row in `bg`, `cs`, `da`,
 `de`, `es`, `et`, `fr`, `hr`, `hu`, `it`, `ja`, `ka`, `ko`, `nl`, `pl`, `pt-br`, `ro`,
